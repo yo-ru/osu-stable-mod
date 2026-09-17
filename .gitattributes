@@ -1,0 +1,2 @@
+# keep text files consistent for Visual Studio on Windows
+* text=auto eol=crlf

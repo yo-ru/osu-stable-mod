@@ -1,0 +1,45 @@
+# Build output
+.vs/
+.vscode/
+.idea/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+x64/
+x86/
+Win32/
+Debug/
+Release/
+bin/
+obj/
+vcpkg_installed/
+
+# Compiler output
+*.user
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+*.db
+*.opendb
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+*.tlog
+*.recipe
+*.ipdb
+*.iobj
+
+# Binaries
+*.dll
+*.exe
+*.sys
+
+# Logs
+*.log
