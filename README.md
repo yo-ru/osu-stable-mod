@@ -1,4 +1,4 @@
-# osu! stable mod
+# osu! stable module
 
 aim assist and relax for osu! stable
 
